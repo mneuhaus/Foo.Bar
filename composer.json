@@ -1,0 +1,1 @@
+{"name":"foo\/bar","type":"typo3-flow-package","description":"","require":{"typo3\/flow":"*"},"autoload":{"psr-0":{"Foo\\Bar":"Classes"}}}
